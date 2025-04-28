@@ -7,7 +7,7 @@
 - 🚀 Building projects to sharpen my front-end and QA skills
 - 🌱 Always excited to learn and grow in the tech world
 
-- 📫 How to reach me **rashirajasinghe@gmail.com**
+- 📫 How to reach me **rashini.rajasinghe1@gmail.com**
 
 - ⚡ Fun fact **call me as Rashi**
 
