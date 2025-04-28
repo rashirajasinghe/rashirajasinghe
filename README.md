@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rashini Rajasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Bachelor of Information Technology**
+
+🎓 IT Student | 📚 Passionate about Web Development & QA Testing
+💻 Skills: HTML, CSS, JavaScript, React, SQL, Selenium
+🔍 Currently learning: Automation Testing & Software Engineering
+🚀 Building projects to sharpen my front-end and QA skills
+🌱 Always excited to learn and grow in the tech world
 
 - 📫 How to reach me **rashirajasinghe@gmail.com**
 
