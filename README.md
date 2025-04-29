@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rashirajasinghe@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashirajasinghe@gmail.com" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rashini-rajasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashirajasinghe@gmail.com" height="30" width="40" /></a>
 <a href="https://fb.com/rashirajasinghe@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashirajasinghe@gmail.com" height="30" width="40" /></a>
 </p>
 
