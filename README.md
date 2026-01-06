@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashini Rajasinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 - 🎓 IT Undergraduate at University of Colombo School of Computing
 - 💻 Passionate about software Engineering, web Development, and Quality Assurance
