@@ -5,7 +5,7 @@
 - 💻 Passionate about software Engineering, web Development, and Quality Assurance
 - 🌱 Currently learning: ReactJS, JavaScript, and Selenium
 - 🔭 Working on projects to enhance my web development skills
-- 📫 How to reach me: **rashini.rajasinghe1@gmail.com**
+- 📫 How to reach me: **rashinirajasinghe09@gmail.com**
 - ⚡ Fun fact: **Call me Rashi**
 
 <h3 align="left">Connect with me:</h3>
